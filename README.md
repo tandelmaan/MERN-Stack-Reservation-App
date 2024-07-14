@@ -1,1 +1,1 @@
-# MERN-Stack-Reservation-App
+# MERN-Stack-Restaurants Application
